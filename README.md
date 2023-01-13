@@ -1,11 +1,9 @@
-
+<h1 align="center">Hello / Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
     <a href="https://www.linkedin.com/in/andrea-rondón-villanueva/"><img src="https://img.shields.io/badge/-Andrea%20Rondón%20Villanueva-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
     <a href="mailto: andrea.estefania.rv@gmail.com"><img src="https://img.shields.io/badge/-Email%20me!-green?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
-
-# Hello / Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 ## 👩🏽‍💻 About Me
 
@@ -15,7 +13,6 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - 🌱 Exploring Cloud Techologies integrations.
 - ⚡ In my free time I work on personal Data Analysis projects you can find here, paint or learn something.
 
----
 
 ## 🛠 Languages and Tools
 
@@ -67,13 +64,9 @@ This are the tools I use in my different projects. To create dashboards and web 
 
 I'm currently working on integrating my projects with cloud services such as `AWS`
 
----
-
 ## 🔥 My Stats
 
-<table align="center">
-    <tr align="center">
-        <td><img src="http://github-readme-streak-stats.herokuapp.com?user=drearondov&theme=dark&background=000000" title="Stats" alt="Stats" height="150"/></td>
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drearondov&layout=compact&theme=vision-friendly-dark" title="Langs" alt="Most used langs" height="150"/></td>
-    </tr>
-</table>
+<p>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=drearondov&theme=dark&background=282828" title="Stats" alt="Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drearondov&layout=compact&theme=gruvbox&hide=CSS" title="Langs" alt="Most used langs" height="180"/>
+</p>
