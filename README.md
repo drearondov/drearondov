@@ -1,8 +1,9 @@
 <h1 align="center">Hello / Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
-    <a href="https://www.linkedin.com/in/andrea-rondón-villanueva/"><img src="https://img.shields.io/badge/-Andrea%20Rondón%20Villanueva-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="mailto: andrea.estefania.rv@gmail.com"><img src="https://img.shields.io/badge/-Email%20me!-green?style=flat-square&logo=Gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/andrea-rondón-villanueva/"><img src="https://img.shields.io/badge/-Andrea%20Rondón%20Villanueva-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+    <a href="mailto: andrea.estefania.rv@gmail.com"><img src="https://img.shields.io/badge/-Email%20me!-green?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+    <a href="https://www.noudedata.com"><img src="https://img.shields.io/badge/-Read%20my%20blog-282828?style=for-the-badge&logo=ReadMe&logoColor=white"></a>
 </p>
 
 ## 👩🏽‍💻 About Me
