@@ -14,7 +14,6 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - 🌱 Exploring Cloud Techologies integrations.
 - ⚡ In my free time I work on personal Data Analysis projects you can find here, paint or learn something.
 
-
 ## 🛠 Languages and Tools
 
 I work with the following languages and toolboxes.
@@ -71,3 +70,9 @@ I'm currently working on integrating my projects with cloud services such as `AW
 <img src="http://github-readme-streak-stats.herokuapp.com?user=drearondov&theme=dark&background=282828" title="Stats" alt="Stats" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drearondov&layout=compact&theme=gruvbox&hide=CSS" title="Langs" alt="Most used langs" height="180"/>
 </p>
+
+## 📚 My latest blogposts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
