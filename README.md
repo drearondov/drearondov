@@ -74,5 +74,9 @@ I'm currently working on integrating my projects with cloud services such as `AW
 ## 📚 My latest blogposts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [How to create, install, and publish a new Pygments Style](https://noudedata.com/2023/10/how-to-create-install-and-publish-a-new-pygments-style/)
+- [From Messy to Meaningful: A Practical Guide to Preprocessing Raw Text Data](https://noudedata.com/2023/09/nlp-news-headlines-2/)
+- [Relearning for depth and growth: A MicroMasters Program reflection](https://noudedata.com/2023/05/micromasters-program-reflection/)
+- [How to Implement Screen Navigation in Your Kivy App](https://noudedata.com/2023/04/kivy-screen-navigation/)
+- [What’s in a headline? NLP analysis in news](https://noudedata.com/2023/04/nlp-analysis-part-1/)
 <!-- BLOG-POST-LIST:END -->
