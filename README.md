@@ -67,8 +67,8 @@ I'm currently working on integrating my projects with cloud services such as `AW
 ## 🔥 My Stats
 
 <p>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=drearondov&theme=dark&background=282828" title="Stats" alt="Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drearondov&layout=compact&theme=gruvbox&hide=CSS" title="Langs" alt="Most used langs" height="180"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=drearondov&theme=rose-pine" title="Stats" alt="Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drearondov&layout=compact&theme=rose-pine&hide=CSS" title="Langs" alt="Most used langs" height="180"/>
 </p>
 
 ## 📚 My latest blogposts
